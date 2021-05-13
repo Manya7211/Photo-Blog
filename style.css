@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+div {
+    margin-top: 15px;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+.img_section {
+    display: flex;
+    justify-content: center;
+}
+
+.style_section {
+    margin-left: 25px;
+    margin-right: 25px;
+}
